@@ -12,13 +12,13 @@ Recuerda que estamos en una comunidad así que todo nivel de aportación es muy 
 
 |Clase|Enlace|
 | --------- | -------------------- |
-|Agregar modelos y configuración en mi Web Api|[Ver proyecto](https://github.com/aminespinoza/ContenidoSQLAzure/Proyectos/Clase2)|
-|Configurando mi conexión a SQL|[Ver proyecto](https://github.com/aminespinoza/ContenidoSQLAzure/Proyectos/Clase3)|
-|Comandos de Entity Framework Core|[Ver proyecto](https://github.com/aminespinoza/ContenidoSQLAzure/Proyectos/Clase4)|
-|Operación SELECT desde mi API|[Ver proyecto](https://github.com/aminespinoza/ContenidoSQLAzure/Proyectos/Clase5)|
-|Publicación y ajustes de mi Web API|[Ver proyecto](https://github.com/aminespinoza/ContenidoSQLAzure/Proyectos/Clase6)|
-|Operaciones GET y POST desde mi Web API|[Ver proyecto](https://github.com/aminespinoza/ContenidoSQLAzure/Proyectos/Clase7)|
-|Operaciones PUT y DELETE desde mi Web API|[Ver proyecto](https://github.com/aminespinoza/ContenidoSQLAzure/Proyectos/Clase8)|
+|Agregar modelos y configuración en mi Web Api|[Ver proyecto](https://github.com/aminespinoza/ContenidoSQLAzure/tree/master/Proyectos/Clase2)|
+|Configurando mi conexión a SQL|[Ver proyecto](https://github.com/aminespinoza/ContenidoSQLAzure/tree/master/Proyectos/Clase3)|
+|Comandos de Entity Framework Core|[Ver proyecto](https://github.com/aminespinoza/ContenidoSQLAzure/tree/master/Proyectos/Clase4)|
+|Operación SELECT desde mi API|[Ver proyecto](https://github.com/aminespinoza/ContenidoSQLAzure/tree/master/Proyectos/Clase5)|
+|Publicación y ajustes de mi Web API|[Ver proyecto](https://github.com/aminespinoza/ContenidoSQLAzure/tree/master/Proyectos/Clase6)|
+|Operaciones GET y POST desde mi Web API|[Ver proyecto](https://github.com/aminespinoza/ContenidoSQLAzure/tree/master/Proyectos/Clase7)|
+|Operaciones PUT y DELETE desde mi Web API|[Ver proyecto](https://github.com/aminespinoza/ContenidoSQLAzure/tree/master/Proyectos/Clase8)|
 
 
 
