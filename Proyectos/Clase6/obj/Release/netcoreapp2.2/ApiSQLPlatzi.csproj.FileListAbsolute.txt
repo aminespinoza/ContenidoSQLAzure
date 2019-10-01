@@ -1,0 +1,14 @@
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/bin/Release/netcoreapp2.2/ApiSQLPlatzi.deps.json
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/bin/Release/netcoreapp2.2/ApiSQLPlatzi.runtimeconfig.json
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/bin/Release/netcoreapp2.2/ApiSQLPlatzi.runtimeconfig.dev.json
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/bin/Release/netcoreapp2.2/ApiSQLPlatzi.dll
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/bin/Release/netcoreapp2.2/ApiSQLPlatzi.pdb
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/obj/Release/netcoreapp2.2/ApiSQLPlatzi.csprojAssemblyReference.cache
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/obj/Release/netcoreapp2.2/ApiSQLPlatzi.csproj.CoreCompileInputs.cache
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/obj/Release/netcoreapp2.2/ApiSQLPlatzi.RazorAssemblyInfo.cache
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/obj/Release/netcoreapp2.2/ApiSQLPlatzi.RazorAssemblyInfo.cs
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/obj/Release/netcoreapp2.2/ApiSQLPlatzi.AssemblyInfoInputs.cache
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/obj/Release/netcoreapp2.2/ApiSQLPlatzi.AssemblyInfo.cs
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/obj/Release/netcoreapp2.2/ApiSQLPlatzi.RazorTargetAssemblyInfo.cache
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/obj/Release/netcoreapp2.2/ApiSQLPlatzi.dll
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/obj/Release/netcoreapp2.2/ApiSQLPlatzi.pdb

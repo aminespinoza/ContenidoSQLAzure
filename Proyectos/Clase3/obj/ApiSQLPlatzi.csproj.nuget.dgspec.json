@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/ApiSQLPlatzi.csproj": {}
+  },
+  "projects": {
+    "/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/ApiSQLPlatzi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/ApiSQLPlatzi.csproj",
+        "projectName": "ApiSQLPlatzi",
+        "projectPath": "/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/ApiSQLPlatzi.csproj",
+        "packagesPath": "/home/amin/.nuget/packages/",
+        "outputPath": "/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/amin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

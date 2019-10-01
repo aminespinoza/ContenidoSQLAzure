@@ -1,0 +1,28 @@
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/bin/Debug/netcoreapp2.2/ApiSQLPlatzi.deps.json
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/bin/Debug/netcoreapp2.2/ApiSQLPlatzi.runtimeconfig.json
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/bin/Debug/netcoreapp2.2/ApiSQLPlatzi.runtimeconfig.dev.json
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/bin/Debug/netcoreapp2.2/ApiSQLPlatzi.dll
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/bin/Debug/netcoreapp2.2/ApiSQLPlatzi.pdb
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/obj/Debug/netcoreapp2.2/ApiSQLPlatzi.csprojAssemblyReference.cache
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/obj/Debug/netcoreapp2.2/ApiSQLPlatzi.csproj.CoreCompileInputs.cache
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/obj/Debug/netcoreapp2.2/ApiSQLPlatzi.RazorAssemblyInfo.cache
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/obj/Debug/netcoreapp2.2/ApiSQLPlatzi.RazorAssemblyInfo.cs
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/obj/Debug/netcoreapp2.2/ApiSQLPlatzi.AssemblyInfoInputs.cache
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/obj/Debug/netcoreapp2.2/ApiSQLPlatzi.AssemblyInfo.cs
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/obj/Debug/netcoreapp2.2/ApiSQLPlatzi.RazorTargetAssemblyInfo.cache
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/obj/Debug/netcoreapp2.2/ApiSQLPlatzi.dll
+/home/amin/Documents/Platzi/SQL Azure/ApiSQLPlatzi/obj/Debug/netcoreapp2.2/ApiSQLPlatzi.pdb
+C:\Users\amines\Documents\Escuela\Platzi\Ejercicios\Platzi\SQL Azure\ApiSQLPlatzi Clase 8\bin\Debug\netcoreapp2.2\ApiSQLPlatzi.deps.json
+C:\Users\amines\Documents\Escuela\Platzi\Ejercicios\Platzi\SQL Azure\ApiSQLPlatzi Clase 8\bin\Debug\netcoreapp2.2\ApiSQLPlatzi.runtimeconfig.json
+C:\Users\amines\Documents\Escuela\Platzi\Ejercicios\Platzi\SQL Azure\ApiSQLPlatzi Clase 8\bin\Debug\netcoreapp2.2\ApiSQLPlatzi.runtimeconfig.dev.json
+C:\Users\amines\Documents\Escuela\Platzi\Ejercicios\Platzi\SQL Azure\ApiSQLPlatzi Clase 8\bin\Debug\netcoreapp2.2\ApiSQLPlatzi.dll
+C:\Users\amines\Documents\Escuela\Platzi\Ejercicios\Platzi\SQL Azure\ApiSQLPlatzi Clase 8\bin\Debug\netcoreapp2.2\ApiSQLPlatzi.pdb
+C:\Users\amines\Documents\Escuela\Platzi\Ejercicios\Platzi\SQL Azure\ApiSQLPlatzi Clase 8\obj\Debug\netcoreapp2.2\ApiSQLPlatzi.csprojAssemblyReference.cache
+C:\Users\amines\Documents\Escuela\Platzi\Ejercicios\Platzi\SQL Azure\ApiSQLPlatzi Clase 8\obj\Debug\netcoreapp2.2\ApiSQLPlatzi.csproj.CoreCompileInputs.cache
+C:\Users\amines\Documents\Escuela\Platzi\Ejercicios\Platzi\SQL Azure\ApiSQLPlatzi Clase 8\obj\Debug\netcoreapp2.2\ApiSQLPlatzi.RazorAssemblyInfo.cache
+C:\Users\amines\Documents\Escuela\Platzi\Ejercicios\Platzi\SQL Azure\ApiSQLPlatzi Clase 8\obj\Debug\netcoreapp2.2\ApiSQLPlatzi.RazorAssemblyInfo.cs
+C:\Users\amines\Documents\Escuela\Platzi\Ejercicios\Platzi\SQL Azure\ApiSQLPlatzi Clase 8\obj\Debug\netcoreapp2.2\ApiSQLPlatzi.AssemblyInfoInputs.cache
+C:\Users\amines\Documents\Escuela\Platzi\Ejercicios\Platzi\SQL Azure\ApiSQLPlatzi Clase 8\obj\Debug\netcoreapp2.2\ApiSQLPlatzi.AssemblyInfo.cs
+C:\Users\amines\Documents\Escuela\Platzi\Ejercicios\Platzi\SQL Azure\ApiSQLPlatzi Clase 8\obj\Debug\netcoreapp2.2\ApiSQLPlatzi.RazorTargetAssemblyInfo.cache
+C:\Users\amines\Documents\Escuela\Platzi\Ejercicios\Platzi\SQL Azure\ApiSQLPlatzi Clase 8\obj\Debug\netcoreapp2.2\ApiSQLPlatzi.dll
+C:\Users\amines\Documents\Escuela\Platzi\Ejercicios\Platzi\SQL Azure\ApiSQLPlatzi Clase 8\obj\Debug\netcoreapp2.2\ApiSQLPlatzi.pdb
