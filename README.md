@@ -11,7 +11,7 @@ Recuerda que estamos en una comunidad así que todo nivel de aportación es muy 
 ### Ejercicios del curso de SQL Azure
 
 |Clase|Enlace|
-| --------- | -------------------- | ------ |
+| --------- | -------------------- |
 |Agregar modelos y configuración en mi Web Api|[Ver proyecto](https://github.com/aminespinoza/ContenidoSQLAzure/Proyectos/Clase2)|
 |Configurando mi conexión a SQL|[Ver proyecto](https://github.com/aminespinoza/ContenidoSQLAzure/Proyectos/Clase3)|
 |Comandos de Entity Framework Core|[Ver proyecto](https://github.com/aminespinoza/ContenidoSQLAzure/Proyectos/Clase4)|
